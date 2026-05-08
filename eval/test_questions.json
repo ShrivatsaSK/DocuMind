@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the document mainly about?",
+    "must_have_citation": true
+  },
+  {
+    "question": "What are the key points mentioned?",
+    "must_have_citation": true
+  },
+  {
+    "question": "What is the conclusion?",
+    "must_have_citation": true
+  },
+  {
+    "question": "What is not mentioned in the document?",
+    "must_have_citation": false
+  }
+]
