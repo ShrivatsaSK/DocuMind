@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") #Your api key here 
 
 st.title("📄 DocuMind - Ask My Docs")
 st.caption("Hybrid Retrieval + Reranking + Citation-Enforced RAG")
