@@ -85,7 +85,6 @@ def sentence_chunk_text(text, max_words=160, overlap_words=35):
 
     return chunks
 
-
 def process_documents(uploaded_files):
     chunks = []
     chunk_id = 1
